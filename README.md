@@ -27,4 +27,3 @@ This project is a demonstration of transforming a desktop-only HTML layout into 
 
 ---
 
-Made with ❤️ during Web Development Internship.
